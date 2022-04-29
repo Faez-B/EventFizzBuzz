@@ -8,7 +8,4 @@ class Logger extends EventEmitter {
 
 }
 
-// const test = new Logger();
-// test.log(3);
-
 module.exports = Logger;
